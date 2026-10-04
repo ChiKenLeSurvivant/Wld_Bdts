@@ -1,0 +1,20 @@
+Symbols VICO.png
+size:1506,522
+filter:Linear,Linear
+pma:true
+scale:0.5
+FS/FS_bag
+bounds:2,8,512,512
+FS/FS_particles1
+bounds:1030,2,325,280
+offsets:92,32,512,512
+rotate:90
+FS/FS_particles2
+bounds:1030,329,385,191
+offsets:56,77,512,512
+FS/FS_shadow
+bounds:516,8,512,512
+FS/FS_txt
+bounds:1312,66,261,192
+offsets:126,70,512,512
+rotate:90
